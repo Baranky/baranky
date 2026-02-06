@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhaba! Ben Baran. **Java ekosistemi** üzerine uzmanlaşıyorum. Özellikle **Spring Boot** ile mikroservis mimarileri geliştirmekten ve **Docker/Kubernetes** ile deployment süreçlerini yönetmekten keyif alıyorum.
+Merhaba! Ben Baran. **Java ekosistemi** üzerine kendimi geliştiriyorum. Özellikle **Spring Boot** ile mikroservis mimarisi ile dağıtık sistemler geliştirmekten ve **Docker/Kubernetes** ile deployment süreçlerini yönetmekten keyif alıyorum.
 
 ---
 
